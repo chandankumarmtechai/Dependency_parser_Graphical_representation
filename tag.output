@@ -1,0 +1,488 @@
+1	राम	राम	NNP	2	k1
+2	बैठा	बैठा	VM	0	main
+3	है	है	VAUX	2	lwg__vaux
+4	.	.	.	2	rsym
+
+1	मां	माँ	NN	6	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	बच्चे	बच्चा	NN	6	k2
+4	को	को	PSP:को	3	lwg__psp
+5	खाना	खाना	NN	6	k2
+6	खिलाया	खिला	VM	0	main
+7	.	.	.	6	rsym
+
+1	मां	माँ	NN	3	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	आया	आ	VM	8	rh
+4	से	से	PSP:से	3	lwg__psp
+5	बच्चे	बच्चा	NN	8	k2
+6	को	को	PSP:को	5	lwg__psp
+7	खाना	खाना	NN	8	k2
+8	खिलवाया	खिलवाया	VM	0	main
+9	.	.	.	8	rsym
+
+1	राम	राम	NNP	3	k1
+2	बुद्धिमान	बुद्धिमान	JJ	3	k1s
+3	है	है	VM	0	main
+4	.	.	.	3	rsym
+
+1	राम	राम	NNP	5	k1
+2	रोज	रोज	NN	5	k1
+3	एक	एक	QC	4	nmod__adj
+4	सेव	सेव	NN	5	k2
+5	खाता	खा	VM	0	main
+6	है	है	VAUX	5	lwg__vaux
+7	.	.	.	5	rsym
+
+1	राम	राम	NNP	7	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	बाजार	बाजार	NN	7	k7p
+4	में	में	PSP:में	3	lwg__psp
+5	रवि	रवि	NN	7	k2
+6	को	को	PSP:को	5	lwg__psp
+7	देखा	देख	VM	0	main
+8	.	.	.	7	rsym
+
+1	राम	राम	NNP	2	k2p
+2	गया	गया	VM	0	main
+3	गया	गया	VAUX	2	lwg__vaux
+4	.	.	.	2	rsym
+
+1	राम	राम	NNP	4	k1
+2	को	को	PSP:को	1	lwg__psp
+3	दिल्ली	दिल्ली	NNP	4	k2p
+4	जाना	जान	VM	0	main
+5	पडा	पड	VAUX	4	lwg__vaux
+6	.	.	.	4	rsym
+
+1	वे	वह	PRP	7	k1
+2	लोग	लोग	NN	7	k1
+3	गांधी	गांधी	NNP	7	k4
+4	को	को	PSP:को	3	lwg__psp
+5	बापू	बापू	NN	7	k1
+6	भी	भी	RP	5	lwg__rp
+7	कहते	कह	VM	0	main
+8	हैं	है	VAUX	7	lwg__vaux
+9	.	.	.	7	rsym
+
+1	राम	राम	XC	2	mod
+2	मोहन	मोहन	NNP	5	k2
+3	को	को	PSP:को	2	lwg__psp
+4	बुद्धिमान	बुद्धिमान	JJ	5	pof
+5	समझता	समझ	VM	0	main
+6	है	है	VAUX	5	lwg__vaux
+7	.	.	.	5	rsym
+
+1	राम	राम	NNP	6	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	चाकू	चाकू	NN	6	k5
+4	से	से	PSP:से	3	lwg__psp
+5	सेव	सेव	NN	6	pof
+6	कटा	कटा	VM	0	main
+7	.	.	.	6	rsym
+
+1	राम	राम	NNP	6	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	चाकू	चाकू	NN	6	k3
+4	से	से	PSP:से	3	lwg__psp
+5	सेव	सेव	NN	6	pof
+6	काटा	काट	VM	0	main
+7	.	.	.	6	rsym
+
+1	सीता	सीता	NNP	7	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	पानी	पानी	NN	7	rh
+4	से	से	PSP:से	3	lwg__psp
+5	घडे	घडा	NN	7	k2
+6	को	को	PSP:को	5	lwg__psp
+7	भरा	भर	VM	0	main
+8	.	.	.	7	rsym
+
+1	राम	राम	NNP	6	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	मोहन	मोहन	NNP	6	k4
+4	को	को	PSP:को	3	lwg__psp
+5	खीर	खीर	NN	6	pof
+6	दी	दे	VAUX	0	main
+7	.	.	.	6	rsym
+
+1	राम	राम	NNP	0	ROOT
+2	ने	ने	PSP:ने	1	lwg__psp
+3	हरी	हरी	JJ	0	ROOT
+4	से	से	PSP:से	3	lwg__psp
+5	यह	यह	PRP	6	k2
+6	कहा	कह	XC	0	ROOT
+7	.	.	.	6	rsym
+
+1	मुझको	मुझको	PRP	4	k1
+2	राम	राम	XC	4	k1
+3	बुद्धिमान	बुद्धिमान	NN	4	pof
+4	लगता	लग	VM	0	main
+5	है	है	VAUX	4	lwg__vaux
+6	.	.	.	4	rsym
+
+1	मुझको	मुझको	PRP	3	k1
+2	चांद	चांद	NN	3	k2
+3	दिखा	दिखा	VM	0	main
+4	.	.	.	3	rsym
+
+1	राम	राम	NNP	4	k4
+2	को	को	PSP:को	1	lwg__psp
+3	भूख	भूख	NN	4	pof
+4	लगी	लग	VM	0	main
+5	.	.	.	4	rsym
+
+1	राम	राम	NNP	8	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	चम्मच	चम्मच	NN	8	rh
+4	से	से	PSP:से	3	lwg__psp
+5	कटोरी	कटोरी	NN	8	rsp
+6	से	से	PSP:से	5	lwg__psp
+7	खीर	खीर	NN	8	pof
+8	खायी	खा	VM	0	main
+9	.	.	.	8	rsym
+
+1	चोर	चोर	NN	2	mod
+2	पुलिस	पुलिस	NN	4	k4
+3	से	से	PSP:से	2	lwg__psp
+4	भागता	भाग	VM	0	main
+5	है	है	VAUX	4	lwg__vaux
+6	.	.	.	4	rsym
+
+1	जुते	जुत	VM	4	vmod
+2	चमडे	चमडा	NN	4	k5
+3	से	से	PSP:से	2	lwg__psp
+4	बनता	बन	VM	0	main
+5	है	है	VAUX	4	lwg__vaux
+6	.	.	.	4	rsym
+
+1	राम	राम	XC	2	mod
+2	दिल्ली	दिल्ली	NNP	4	k7p
+3	में	में	PSP:में	2	lwg__psp
+4	रहता	रह	VM	0	main
+5	है	है	VAUX	4	lwg__vaux
+6	.	.	.	4	rsym
+
+1	बचपन	बचपन	NN	6	k7
+2	में	में	PSP:में	1	lwg__psp
+3	वह	वह	PRP	6	k1
+4	बहुत	बहुत	QF	5	nmod__adj
+5	शैतान	शैतान	NN	6	k1s
+6	था	था	VM	0	main
+7	.	.	.	6	rsym
+
+1	मेज	मेज	NN	4	k7
+2	पर	पर	PSP:पर	1	lwg__psp
+3	किताब	किताब	NN	4	pof
+4	है	है	VM	0	main
+5	.	.	.	4	rsym
+
+1	हवा	हवा	NN	4	k7
+2	में	में	PSP:में	1	lwg__psp
+3	ठंडक	ठंडक	JJ	4	k1s
+4	है	है	VM	0	main
+5	.	.	.	4	rsym
+
+1	वे	वह	PRP	5	k1
+2	राजनीती	राजनीती	NN	5	k7
+3	पर	पर	PSP:पर	2	lwg__psp
+4	चर्चा	चर्चा	NN	5	pof
+5	कर	कर	VM	0	main
+6	रहे	रह	VAUX	5	lwg__vaux
+7	थे	था	VAUX	5	lwg__vaux
+8	.	.	.	5	rsym
+
+1	हरी	हरी	RDP	7	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	स्वतंत्रता	स्वतन्त्रता	NN	4	mod
+4	संग्राम	संग्राम	NN	7	k7
+5	में	में	PSP:में	4	lwg__psp
+6	भाग	भाग	NN	7	pof
+7	लिया	ले	VM	0	main
+8	.	.	.	7	rsym
+
+1	राधा	राधा	XC	5	k1
+2	मीरा	मीरा	NNP	5	k1
+3	जैसी	जैसी	PSP:जैसी	2	lwg__psp
+4	सुन्दर	सुन्दर	JJ	5	k1s
+5	है	है	VM	0	main
+6	.	.	.	5	rsym
+
+1	सीता	सीता	NNP	2	mod
+2	मीरा	मीरा	NN	7	k2
+3	को	को	PSP:को	2	lwg__psp
+4	राधा	राधा	NN	7	k2
+5	जैसी	जैसी	PSP:जैसी	4	lwg__psp
+6	सुन्दर	सुन्दर	JJ	7	pof
+7	समझतीं	समझ	VM	0	main
+8	है	है	VAUX	7	lwg__vaux
+9	.	.	.	7	rsym
+
+1	सम्मान	सम्मान	NN	3	r6
+2	का	का	PSP:का	1	lwg__psp
+3	भाव	भाव	NN	0	main
+4	.	.	.	3	rsym
+
+1	पुष्तक	पुष्तक	NN	3	r6
+2	की	का	PSP:का	1	lwg__psp
+3	कीमत	कीमत	NN	0	main
+4	.	.	.	3	rsym
+
+1	कल	कल	XC	5	k7t
+2	मंदिर	मंदिर	NNP	4	r6
+3	का	का	PSP:का	2	lwg__psp
+4	उद्घाटन	उद्घाटन	NN	5	pof
+5	हुआ	हो	VM	0	main
+6	.	.	.	5	rsym
+
+1	मंत्रीजी	मंत्रीजी	NN	7	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	कल	कल	XC	7	k7t
+4	मंदिर	मंदिर	NNP	6	r6-k2
+5	का	का	PSP:का	4	lwg__psp
+6	उद्घाटन	उद्घाटन	NN	7	pof
+7	किया	कर	VM	0	main
+8	.	.	.	7	rsym
+
+1	राम	राम	NNP	4	r6
+2	के	का	PSP:का	1	lwg__psp
+3	एक	एक	QC	4	nmod__adj
+4	बेटी	बेटी	NN	5	k1
+5	है	है	VM	0	main
+6	.	.	.	5	rsym
+
+1	वह	वह	PRP	4	k1
+2	जल्दी	जल्दी	RB	4	adv
+3	जल्दी	जल्दी	RB	4	adv
+4	लिख	लिख	VM	0	main
+5	रहा	रह	VAUX	4	lwg__vaux
+6	था	था	VAUX	4	lwg__vaux
+7	.	.	.	4	rsym
+
+1	वह	वह	PRP	4	k1
+2	बहुत	बहुत	INTF	3	jjmod__intf
+3	तेज	तेज	JJ	4	k1s
+4	बोलता	बोल	VM	0	main
+5	है	है	VAUX	4	lwg__vaux
+6	.	.	.	4	rsym
+
+1	इसके	इसके	PRP	9	vmod
+2	आलावा	आलावा	PSP:?	1	lwg__psp
+3	भाजपा	भाजपा	NN	5	r6
+4	के	का	PSP:का	3	lwg__psp
+5	रामबचन	रामबचन	NN	9	k2
+6	यादव	यादव	NN	9	k2
+7	को	को	PSP:को	6	lwg__psp
+8	गिरफ्तार	गिरफ्तार	VM	9	pof
+9	कर	कर	VAUX	0	main
+10	लिया	ले	VAUX	9	lwg__vaux
+11	गया	गया	VAUX	9	lwg__vaux
+12	.	.	.	9	rsym
+
+1	सीता	सीता	NNP	2	mod
+2	गांव	गाँव	NN	5	rd
+3	की	का	PSP:का	2	lwg__psp
+4	ओर	ओर	PSP:ओर	2	lwg__psp
+5	जा	जा	VM	0	main
+6	रही	रह	VAUX	5	lwg__vaux
+7	थी	था	VAUX	5	lwg__vaux
+8	.	.	.	5	rsym
+
+1	राम	राम	NNP	7	rd
+2	के	का	PSP:का	1	lwg__psp
+3	प्रति	प्रति	PSP:प्रति	1	lwg__psp
+4	मोहन	मोहन	NN	7	k4a
+5	को	को	PSP:को	4	lwg__psp
+6	श्रद्धा	श्रद्धा	NN	7	pof
+7	है	है	VM	0	main
+8	.	.	.	7	rsym
+
+1	मैंने	मैं	PRP	7	k1
+2	मोहन	मोहन	NN	4	r6
+3	की	का	PSP:का	2	lwg__psp
+4	वजह	वजह	NN	7	rh
+5	से	से	PSP:से	4	lwg__psp
+6	किताब	किताब	NN	7	pof
+7	खरीदी	खरीद	VM	0	main
+8	.	.	.	7	rsym
+
+1	मोहन	मोहन	NN	2	k2
+2	पढने	पढ	VM	6	rt
+3	के	का	PSP:का	2	lwg__psp
+4	लिए	ले	PSP:ले	2	lwg__psp
+5	स्कूल	स्कूल	NN	6	k2p
+6	जाता	जा	VAUX	0	main
+7	है	है	VAUX	6	lwg__vaux
+8	.	.	.	6	rsym
+
+1	राम	राम	NNP	7	k1
+2	अपने	अपना	PRP	3	r6
+3	पिताजी	पिताजी	NN	7	k7t
+4	के	का	PSP:का	3	lwg__psp
+5	साथ	साथ	NST	3	lwg__psp
+6	बाजार	बाजार	NN	7	k2p
+7	गया	गया	VAUX	0	main
+8	.	.	.	7	rsym
+
+1	राम	राम	NNP	2	pof__cn
+2	पिताजी	पिताजी	NN	4	r6
+3	के	का	PSP:का	2	lwg__psp
+4	बिना	बिन	NEG	0	main
+5	गया	गया	VAUX	4	lwg__vaux
+6	.	.	.	4	rsym
+
+1	बात	बात	NN	3	k1
+2	यह	यह	PRP	3	k1s
+3	है	है	VM	0	main
+4	की	का	PSP:का	0	ROOT
+5	वो	वो	PRP	8	k1
+6	कल	कल	NN	8	k7t
+7	नहीं	नहीं	NEG	8	lwg__neg
+8	आएगा	आ	VM	4	ccof
+9	.	.	.	8	rsym
+
+1	१९९०	१९९०	QC	9	sent-adv
+2	से	से	PSP:से	1	lwg__rp
+3	२०००	२०००	QC	1	mod
+4	तक	तक	RP	1	lwg__rp
+5	भारत	भारत	NNP	7	r6
+6	की	का	PSP:का	5	lwg__psp
+7	प्रगति	प्रगति	NN	9	k1
+8	तेज	तेज	JJ	9	k1s
+9	रही	रह	VM	0	main
+10	.	.	.	9	rsym
+
+1	मां	माँ	NN	0	ROOT
+2	मुझे	मुझे	PRP	0	ROOT
+3	कल	कल	NN	5	k7t
+4	दिल्ली	दिल्ली	NNP	5	k2p
+5	जाना	जान	VM	0	ROOT
+6	है	है	VAUX	5	lwg__vaux
+7	.	.	.	5	rsym
+
+1	मास्टर	मास्टर	NN	16	sent-adv
+2	साहब	साहब	RP	1	lwg__rp
+3	,	,	,	1	rsym
+4	क्या	क्या	WQ	16	vmod
+5	कल	कल	NN	7	k7t
+6	स्कूल	स्कूल	NN	7	pof
+7	खुला	खुल	VM	11	nmod__k2inv
+8	है	है	VAUX	7	lwg__vaux
+9	?	?	?	7	rsym
+10	मेरी	मेरी	PRP	11	r6
+11	बहन	बहन	NN	16	k1
+12	[	[	[	11	lwg__psp
+13	जो	जो	PRP	16	k1
+14	दिल्ली	दिल्ली	NNP	16	k7p
+15	में	में	PSP:में	14	lwg__psp
+16	रहती	रह	VM	0	main
+17	है	है	VAUX	16	lwg__vaux
+18	]	]	]	16	rsym
+19	कल	कल	NN	20	k7t
+20	आ	आ	VM	18	ccof
+21	रही	रह	VAUX	20	lwg__vaux
+22	है	है	VAUX	20	lwg__vaux
+23	.	.	.	20	rsym
+
+1	पेड	पेड	RDP	5	k7p
+2	पर	पर	PSP:पर	1	lwg__psp
+3	बैठी	बैठ	VM	5	vmod
+4	चिडिया	चिडिया	NN	5	pof
+5	गाना	गा	VM	0	main
+6	गा	गा	VAUX	5	lwg__vaux
+7	रही	रह	VAUX	5	lwg__vaux
+8	थी	था	VAUX	5	lwg__vaux
+9	.	.	.	5	rsym
+
+1	वह	वह	PRP	2	k1
+2	खाते	खा	VM	0	main
+3	हुए	हो	VAUX	2	lwg__vaux
+4	गया	गया	VAUX	2	lwg__vaux
+5	.	.	.	2	rsym
+
+1	वह	वह	PRP	3	k1
+2	खाना	खाना	NN	3	k2
+3	खा	खा	VM	0	main
+4	कर	कर	VAUX	3	lwg__vaux
+5	गया	गया	VAUX	3	lwg__vaux
+6	.	.	.	3	rsym
+
+1	राम	राम	NNP	2	mod
+2	सांप	सांप	NN	4	k2
+3	को	को	PSP:को	2	lwg__psp
+4	देखकर	देख	VM	0	main
+5	डर	डर	VAUX	4	lwg__vaux
+6	गया	गया	VAUX	4	lwg__vaux
+7	.	.	.	4	rsym
+
+1	हल्की	हल्की	JJ	3	nmod__adj
+2	नीली	नीली	JJ	3	nmod__adj
+3	किताब	किताब	NN	0	main
+4	.	.	.	3	rsym
+
+1	राम	राम	NNP	2	mod
+2	रवि	रवि	NN	4	r6-k2
+3	की	का	PSP:का	2	lwg__psp
+4	प्रतीक्षा	प्रतीक्षा	NN	5	pof
+5	कर	कर	VM	0	main
+6	रहा	रह	VAUX	5	lwg__vaux
+7	था	था	VAUX	5	lwg__vaux
+8	.	.	.	5	rsym
+
+1	राम	राम	NNP	5	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	एक	एक	QC	4	nmod__adj
+4	प्रश्न	प्रश्न	NN	5	k2
+5	किया	कर	VM	0	main
+6	.	.	.	5	rsym
+
+1	सडक	सडक	NN	2	k1
+2	चौडी	चौडी	VM	0	main
+3	हुई	हो	VAUX	2	lwg__vaux
+4	.	.	.	2	rsym
+
+1	राम	राम	XC	3	k1
+2	सेव	सेव	NN	3	pof
+3	खाता	खा	VM	5	ccof
+4	है	है	VAUX	3	lwg__vaux
+5	और	और	CC:और	0	main
+6	सीता	सीता	NNP	7	mod
+7	दूध	दूध	NN	8	k1
+8	पीती	पी	VM	5	ccof
+9	है	है	VAUX	8	lwg__vaux
+10	.	.	.	8	rsym
+
+1	राम	राम	NNP	5	k1
+2	ने	ने	PSP:ने	1	lwg__psp
+3	श्याम	श्याम	NNP	5	k2p
+4	से	से	PSP:से	3	lwg__psp
+5	कहा	कह	VM	0	ROOT
+6	की	का	PSP:का	5	lwg__psp
+7	वो	वो	PRP	10	k1
+8	कल	कल	NN	10	k7t
+9	नहीं	नहीं	NEG	10	lwg__neg
+10	आएगा	आ	VM	0	ROOT
+11	.	.	.	10	rsym
+
+1	भाजपा	भाजपा	NN	4	r6
+2	के	का	PSP:का	1	lwg__psp
+3	रामचरण	रामचरण	XC	4	mod
+4	यादव	यादव	NN	6	k2
+5	को	को	PSP:को	4	lwg__psp
+6	गिरफतार	गिरफतार	VM	0	main
+7	कर	कर	VAUX	6	lwg__vaux
+8	लिया	ले	VAUX	6	lwg__vaux
+9	गया	गया	VAUX	6	lwg__vaux
+10	.	.	.	6	rsym
+
+1	आप	आप	PRP	6	k1
+2	अपना	अपना	PRP	3	k1s
+3	कर	कर	VM	6	vmod
+4	समय	समय	NN	6	k7t
+5	से	से	PSP:से	4	lwg__psp
+6	दे	दे	VM	0	main
+7	सकते	सक	VAUX	6	lwg__vaux
+8	है	है	VAUX	6	lwg__vaux
+9	.	.	.	6	rsym
+
+

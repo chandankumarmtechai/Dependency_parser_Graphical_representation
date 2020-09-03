@@ -1,0 +1,48 @@
+Author: Chandan kumar
+Reg. no: 16mcmi20
+M.tech AI
+University of Hyderabad
+email: chandanmcmi20@gmail.com
+Date : 12 july 2018
+
+************************************************* About *****************************************************
+A dependency parser for Hindi is developed at IIIT Hyderabad by Siva Reddy. This parser is available in the directory /Chandan.16MCMI20.SCIS.UoH/MSC/resources/hindi-dependency-parser-2.0. The output of the parser is in the text format written to a file. To understand the output of the parser in a graphical way this tool is developed.  The output file of the parser is given to the tool as input and then the tool generates a graph to show the dependenccies between words.
+
+********************************************* Requirements ************************************************
+OpenGL graphics libraray should be installed.
+
+
+******************************************** Programs and Scripts ********************************************
+roman.pl
+	1) Script written for romanization for Hindi language
+
+copy.pl
+	1) copy of roman.pl
+
+temp.c
+	1) A C language code generated dynamically by the script tree.pl
+	2) openGL graphics library code to render dependency tree
+
+temp
+ 	1) object file of temp.c generated and executed by the script tree.pl
+ 	
+tree.pl
+	1) uses the programs and scripts mentioned above generate a graphical representaion of the ouput of the dependency parser 
+
+************************************** Example input files for the tool ************************************** 
+bigb.output
+definitions.output
+tag.output
+
+These files are output of the Hindi parser. Any file can be given to the tool as input
+
+******************************************* Temporary text files **********************************************
+sentence
+
+********************************************** How to run *****************************************************
+
+perl tree.pl inputfile name
+
+Example:
+
+perl tree.pl tag.ouput
